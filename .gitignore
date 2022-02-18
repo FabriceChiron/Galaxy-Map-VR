@@ -35,3 +35,27 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/ExampleAssets/
+
+Assets/HiRezSpaceshipsCreatorFree/
+
+Assets/Lights/
+
+Assets/Oculus/
+
+Assets/Real Stars Skybox/
+
+Assets/Science Police Turret/
+
+Assets/Space Graphics Toolkit/
+
+Assets/XR/
+
+Assets/My Planets/
+
+*.meta
+
+Galaxy-Map-VR.zip
+
+*.zip
