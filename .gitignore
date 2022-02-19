@@ -61,3 +61,9 @@ Galaxy-Map-VR.zip
 *.zip
 
 *.log
+
+Assets/Prefabs/.DS_Store
+
+Assets/.DS_Store
+
+.DS_Store
