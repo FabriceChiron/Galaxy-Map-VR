@@ -285,7 +285,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7192316361646331094}
-  - component: {fileID: 5996780511695200385}
   - component: {fileID: -4654383265555165833}
   m_Layer: 0
   m_Name: Saturn
@@ -311,20 +310,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5996780511695200385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7192316361646330921}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9763de3e428b8fb418965c6e58e8e5f7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Orbit: 0
-  RevolutionPeriod: 0
 --- !u!114 &-4654383265555165833
 MonoBehaviour:
   m_ObjectHideFlags: 0

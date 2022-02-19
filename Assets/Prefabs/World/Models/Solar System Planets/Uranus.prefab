@@ -138,7 +138,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8891740539130532134}
-  - component: {fileID: 5014701364671670111}
   - component: {fileID: -8593511640729583180}
   m_Layer: 0
   m_Name: Uranus
@@ -164,20 +163,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5014701364671670111
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8891740539130532313}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9763de3e428b8fb418965c6e58e8e5f7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Orbit: 0
-  RevolutionPeriod: 0
 --- !u!114 &-8593511640729583180
 MonoBehaviour:
   m_ObjectHideFlags: 0

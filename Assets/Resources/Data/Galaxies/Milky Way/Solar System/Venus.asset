@@ -17,6 +17,7 @@ MonoBehaviour:
     days. It has the longest rotation period (243 days) of any planet in the Solar
     System and rotates in the opposite direction to most other planets. It has no
     natural satellites.
+  Prefab: {fileID: 4763894580742127839, guid: 7d7ec8b69aabfbd4d876cc673d42181f, type: 3}
   Texture: {fileID: 2800000, guid: cfd0bf559fadacb418f3b985197fd2a4, type: 3}
   Gaseous: 0
   Material: {fileID: 2100000, guid: ca3b4fb68542e684f8afa42ed24ccc2e, type: 2}
